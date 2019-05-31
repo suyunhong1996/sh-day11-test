@@ -47,7 +47,7 @@ login_010:
 #  expect_data: "登录名不能为空"
 
 login_013:
-  account: "appium"
+  account: "appiu"
   passwd: "159357li"
   toast: "不存在"
   expect_data: "此用户不存在"
